@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.35319.79
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "iskl", "iskl\iskl.csproj", "{75D5190C-4A26-4CB0-B2BC-E3954F57994E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{75D5190C-4A26-4CB0-B2BC-E3954F57994E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{75D5190C-4A26-4CB0-B2BC-E3954F57994E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{75D5190C-4A26-4CB0-B2BC-E3954F57994E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{75D5190C-4A26-4CB0-B2BC-E3954F57994E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B7AF0682-3C03-4AF5-88BD-79858371E8F2}
+	EndGlobalSection
+EndGlobal
